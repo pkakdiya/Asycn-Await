@@ -1,0 +1,11 @@
+C:\Priyank\MyWork\Aysnc-Await\bin\Debug\netcoreapp2.2\Aysnc-Await.deps.json
+C:\Priyank\MyWork\Aysnc-Await\bin\Debug\netcoreapp2.2\Aysnc-Await.runtimeconfig.json
+C:\Priyank\MyWork\Aysnc-Await\bin\Debug\netcoreapp2.2\Aysnc-Await.runtimeconfig.dev.json
+C:\Priyank\MyWork\Aysnc-Await\bin\Debug\netcoreapp2.2\Aysnc-Await.dll
+C:\Priyank\MyWork\Aysnc-Await\bin\Debug\netcoreapp2.2\Aysnc-Await.pdb
+C:\Priyank\MyWork\Aysnc-Await\obj\Debug\netcoreapp2.2\Aysnc-Await.csprojAssemblyReference.cache
+C:\Priyank\MyWork\Aysnc-Await\obj\Debug\netcoreapp2.2\Aysnc-Await.csproj.CoreCompileInputs.cache
+C:\Priyank\MyWork\Aysnc-Await\obj\Debug\netcoreapp2.2\Aysnc-Await.AssemblyInfoInputs.cache
+C:\Priyank\MyWork\Aysnc-Await\obj\Debug\netcoreapp2.2\Aysnc-Await.AssemblyInfo.cs
+C:\Priyank\MyWork\Aysnc-Await\obj\Debug\netcoreapp2.2\Aysnc-Await.dll
+C:\Priyank\MyWork\Aysnc-Await\obj\Debug\netcoreapp2.2\Aysnc-Await.pdb
